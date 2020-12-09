@@ -16,16 +16,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=node.js)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-fff?&logo=Prometheus)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-fff?&logo=Cisco)
-![Python](https://img.shields.io/badge/-Python-05122A?&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?&logo=node.js)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?&logo=django&logoColor=092E20)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?&logo=flask)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?&logo=markdown)
+
 
 
 ![Vladimir Myshkovski's github stats](https://github-readme-stats.vercel.app/api?username=vladimirmyshkovski&show_icons=true&theme=react&hide_border=true&show_icons=true&count_private=true&line_height=27)

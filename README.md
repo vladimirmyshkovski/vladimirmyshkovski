@@ -9,13 +9,13 @@
 
 ### Technologies
 
-![AWS](https://img.shields.io/badge/-AWS-fff?&logo=Amazon-AWS&logoColor=232F3E)
-![Docker](https://img.shields.io/badge/-Docker-fff?&logo=Docker)
-![Jira](https://img.shields.io/badge/-Jira-fff?&logo=jira-software&logoColor=0052CC)
-![Linux](https://img.shields.io/badge/-Linux-fff?&logo=linux&logoColor=000)
-![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=node.js)
-![Prometheus](https://img.shields.io/badge/-Prometheus-fff?&logo=Prometheus)
-![TCP/IP](https://img.shields.io/badge/-TCP/IP-fff?&logo=Cisco)
+![AWS](https://img.shields.io/badge/-AWS-fff?style=flat&logo=Amazon-AWS&logoColor=232F3E)
+![Docker](https://img.shields.io/badge/-Docker-fff?style=flat&logo=Docker)
+![Jira](https://img.shields.io/badge/-Jira-fff?style=flat&logo=jira-software&logoColor=0052CC)
+![Linux](https://img.shields.io/badge/-Linux-fff?style=flat&logo=linux&logoColor=000)
+![Node.js](https://img.shields.io/badge/-Node.js-fff?style=flat&logo=node.js)
+![Prometheus](https://img.shields.io/badge/-Prometheus-fff?style=flat&logo=Prometheus)
+![TCP/IP](https://img.shields.io/badge/-TCP/IP-fff?style=flat&logo=Cisco)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;

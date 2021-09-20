@@ -12,7 +12,7 @@
 ![IPFS](https://img.shields.io/badge/-IPFS-062b3f?&logo=IPFS)
 ![SvelteJS](https://img.shields.io/badge/-Svelte-fff?&logo=svelte)
 ![VueJS](https://img.shields.io/badge/-VueJS-34495E?&logo=vue.js)
-![FastAPI](https://img.shields.io/badge/-FastAPI-fff?&logo=fastapi)
+![NuxtJS](https://img.shields.io/badge/-NuxtJS-fff?&logo=Nuxt.js)
 ![Django](https://img.shields.io/badge/-Django-0C4B33?&logo=Django)
 ![Docker](https://img.shields.io/badge/-Docker-fff?&logo=Docker)
 

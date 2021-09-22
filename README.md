@@ -4,13 +4,19 @@
 
 [![Python](https://img.shields.io/badge/-Python-fff?&logo=python)](https://github.com/vladimirmyshkovski?tab=repositories&q=&type=&language=python)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)](https://github.com/vladimirmyshkovski?tab=repositories&q=&type=&language=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript)
+![AssemblyScript](https://img.shields.io/badge/-AssemblyScript-007acc?&logo=AssemblyScript)
+![Solidity](https://img.shields.io/badge/-Solidity-002fa7?&logo=Solidity)
+![GoLang](https://img.shields.io/badge/-GoLang-fff?&logo=go)
+![Rust](https://img.shields.io/badge/-Rust-black?&logo=rust)
 
 ### Technologies
 
 ![Ethereum](https://img.shields.io/badge/-Ethereum-716b94?&logo=Ethereum)
 ![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=node.js)
 ![IPFS](https://img.shields.io/badge/-IPFS-062b3f?&logo=IPFS)
-![SvelteJS](https://img.shields.io/badge/-Svelte-fff?&logo=svelte)
+![Svelte](https://img.shields.io/badge/-Svelte-fff?&logo=svelte)
+![React](https://img.shields.io/badge/-React-fff?&logo=React)
 ![VueJS](https://img.shields.io/badge/-VueJS-34495E?&logo=vue.js)
 ![NuxtJS](https://img.shields.io/badge/-NuxtJS-fff?&logo=Nuxt.js)
 ![Django](https://img.shields.io/badge/-Django-0C4B33?&logo=Django)

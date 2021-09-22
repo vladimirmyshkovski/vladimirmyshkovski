@@ -16,12 +16,12 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=node.js)
 ![IPFS](https://img.shields.io/badge/-IPFS-062b3f?&logo=IPFS)
 ![Svelte](https://img.shields.io/badge/-Svelte-fff?&logo=svelte)
+![GraphQL](https://img.shields.io/badge/-GraphQL-e10098?&logo=GraphQL)
 ![React](https://img.shields.io/badge/-React-fff?&logo=React)
 ![VueJS](https://img.shields.io/badge/-VueJS-34495E?&logo=vue.js)
 ![NuxtJS](https://img.shields.io/badge/-NuxtJS-fff?&logo=Nuxt.js)
 ![Django](https://img.shields.io/badge/-Django-0C4B33?&logo=Django)
 ![Docker](https://img.shields.io/badge/-Docker-fff?&logo=Docker)
-
 
 
 ![Vladimir Myshkovski's github stats](https://github-readme-stats.vercel.app/api?username=vladimirmyshkovski&show_icons=true&theme=react&hide_border=true&show_icons=true&count_private=true&line_height=27)

@@ -2,26 +2,28 @@
 
 ### Languages
 
-[![Python](https://img.shields.io/badge/-Python-fff?&logo=python)](https://github.com/vladimirmyshkovski?tab=repositories&q=&type=&language=python)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)](https://github.com/vladimirmyshkovski?tab=repositories&q=&type=&language=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript)
-![AssemblyScript](https://img.shields.io/badge/-AssemblyScript-007acc?&logo=AssemblyScript)
-![Solidity](https://img.shields.io/badge/-Solidity-002fa7?&logo=Solidity)
-![GoLang](https://img.shields.io/badge/-GoLang-fff?&logo=go)
-![Rust](https://img.shields.io/badge/-Rust-black?&logo=rust)
+[![Python](https://img.shields.io/badge/-Python-fff?&logo=python&style=for-the-badge)](https://github.com/vladimirmyshkovski?tab=repositories&q=&type=&language=python)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508&style=for-the-badge)](https://github.com/vladimirmyshkovski?tab=repositories&q=&type=&language=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript&style=for-the-badge)
+![AssemblyScript](https://img.shields.io/badge/-AssemblyScript-007acc?&logo=AssemblyScript&style=for-the-badge)
+![Solidity](https://img.shields.io/badge/-Solidity-002fa7?&logo=Solidity&style=for-the-badge)
+![GoLang](https://img.shields.io/badge/-GoLang-fff?&logo=go&style=for-the-badge)
+![Rust](https://img.shields.io/badge/-Rust-black?&logo=rust&style=for-the-badge)
 
 ### Technologies
 
-![Ethereum](https://img.shields.io/badge/-Ethereum-716b94?&logo=Ethereum)
-![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=node.js)
-![IPFS](https://img.shields.io/badge/-IPFS-062b3f?&logo=IPFS)
-![Svelte](https://img.shields.io/badge/-Svelte-fff?&logo=svelte)
-![GraphQL](https://img.shields.io/badge/-GraphQL-e10098?&logo=GraphQL)
-![React](https://img.shields.io/badge/-React-fff?&logo=React)
-![VueJS](https://img.shields.io/badge/-VueJS-34495E?&logo=vue.js)
-![NuxtJS](https://img.shields.io/badge/-NuxtJS-fff?&logo=Nuxt.js)
-![Django](https://img.shields.io/badge/-Django-0C4B33?&logo=Django)
-![Docker](https://img.shields.io/badge/-Docker-fff?&logo=Docker)
+![Polkadot](https://img.shields.io/badge/-Polkadot-E6007A?&logo=Polkadot&style=for-the-badge)
+![Ethereum](https://img.shields.io/badge/-Ethereum-716b94?&logo=Ethereum&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=node.js&style=for-the-badge)
+![IPFS](https://img.shields.io/badge/-IPFS-062b3f?&logo=IPFS&style=for-the-badge)
+![Svelte](https://img.shields.io/badge/-Svelte-fff?&logo=svelte&style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/-GraphQL-e10098?&logo=GraphQL&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-fff?&logo=React&style=for-the-badge)
+![VueJS](https://img.shields.io/badge/-VueJS-34495E?&logo=vue.js&style=for-the-badge)
+![Lit](https://img.shields.io/badge/-lit-00f?&logo=lit&style=for-the-badge)
+![NuxtJS](https://img.shields.io/badge/-NuxtJS-fff?&logo=Nuxt.js&style=for-the-badge)
+![Django](https://img.shields.io/badge/-Django-0C4B33?&logo=Django&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-fff?&logo=Docker&style=for-the-badge)
 
 
 ![Vladimir Myshkovski's github stats](https://github-readme-stats.vercel.app/api?username=vladimirmyshkovski&show_icons=true&theme=react&hide_border=true&show_icons=true&count_private=true&line_height=27)

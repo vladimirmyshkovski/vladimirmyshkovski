@@ -10,6 +10,7 @@
 ![AssemblyScript](https://img.shields.io/badge/-AssemblyScript-007acc?&logo=AssemblyScript&style=for-the-badge)
 ![Nim](https://img.shields.io/badge/-Nim-000?&logo=nim&style=for-the-badge)
 ![GoLang](https://img.shields.io/badge/-GoLang-fff?&logo=go&style=for-the-badge)
+![VLang](https://img.shields.io/badge/-VLang-fff?&logo=V&style=for-the-badge)
 
 ### Technologies
 

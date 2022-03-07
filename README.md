@@ -10,7 +10,7 @@
 ![AssemblyScript](https://img.shields.io/badge/-AssemblyScript-007acc?&logo=AssemblyScript&style=for-the-badge)
 ![Nim](https://img.shields.io/badge/-Nim-000?&logo=nim&style=for-the-badge)
 ![GoLang](https://img.shields.io/badge/-GoLang-fff?&logo=go&style=for-the-badge)
-![VLang](https://img.shields.io/badge/-VLang-fff?&logo=V&style=for-the-badge)
+![VLang](https://img.shields.io/badge/-VLang-fff?&logohttps://camo.githubusercontent.com/5323b8c4e8624e28b856359da7dc840fd386299482808a832aa686ab203f65de/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6573744a532d6564323934353f266c6f676f3d4e6573744a53267374796c653d666f722d7468652d6261646765=V&style=for-the-badge)
 
 ### Technologies
 
@@ -26,7 +26,8 @@
 ![NuxtJS](https://img.shields.io/badge/-NuxtJS-fff?&logo=Nuxt.js&style=for-the-badge)
 ![Django](https://img.shields.io/badge/-Django-0C4B33?&logo=Django&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-Docker-fff?&logo=Docker&style=for-the-badge)
-![NestJS](https://img.shields.io/badge/-NestJS-ed2945?&logo=NestJS&style=for-the-badge)
+![NestJS](https://img.shields.io/badge/-NestJS-404040?&logo=NestJS&style=for-the-badge&logoColor=ed2945)
+![NestJS](https://img.shields.io/badge/-NestJS-404040?&logo=NestJS&style=for-the-badge&logoColor=ed2945)
 
 
 ![Vladimir Myshkovski's github stats](https://github-readme-stats.vercel.app/api?username=vladimirmyshkovski&show_icons=true&theme=react&hide_border=true&show_icons=true&count_private=true&line_height=27)

@@ -26,6 +26,7 @@
 ![NuxtJS](https://img.shields.io/badge/-NuxtJS-fff?&logo=Nuxt.js&style=for-the-badge)
 ![Django](https://img.shields.io/badge/-Django-0C4B33?&logo=Django&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-Docker-fff?&logo=Docker&style=for-the-badge)
+![NestJS](https://img.shields.io/badge/-NestJS-ed2945?&logo=NestJS&style=for-the-badge)
 
 
 ![Vladimir Myshkovski's github stats](https://github-readme-stats.vercel.app/api?username=vladimirmyshkovski&show_icons=true&theme=react&hide_border=true&show_icons=true&count_private=true&line_height=27)

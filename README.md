@@ -1,5 +1,3 @@
-<h1 align="left"><a target="_blank"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="max-width:100%;"></a>Hi there! I'm Vladimir</h1>
-
 ### Languages
 
 [![Python](https://img.shields.io/badge/-Python-ffe873?&logo=python&style=for-the-badge)](https://github.com/vladimirmyshkovski?tab=repositories&q=&type=&language=python)

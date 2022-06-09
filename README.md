@@ -2,7 +2,7 @@
 
 ### Languages
 
-[![Python](https://img.shields.io/badge/-Python-fff?&logo=python&style=for-the-badge)](https://github.com/vladimirmyshkovski?tab=repositories&q=&type=&language=python)
+[![Python](https://img.shields.io/badge/-Python-ffe873?&logo=python&style=for-the-badge)](https://github.com/vladimirmyshkovski?tab=repositories&q=&type=&language=python)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508&style=for-the-badge)](https://github.com/vladimirmyshkovski?tab=repositories&q=&type=&language=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript&style=for-the-badge)
 ![Solidity](https://img.shields.io/badge/-Solidity-002fa7?&logo=Solidity&style=for-the-badge)

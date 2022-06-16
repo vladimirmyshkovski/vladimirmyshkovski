@@ -1,6 +1,7 @@
 ### Languages
 
 [![Python](https://img.shields.io/badge/-Python-ffe873?&logo=python&style=for-the-badge)](https://github.com/vladimirmyshkovski?tab=repositories&q=&type=&language=python)
+[![Dart](https://img.shields.io/badge/-Dart-1C2834?&logo=dart&style=for-the-badge&logoColor=40C4FF)](https://github.com/vladimirmyshkovski?tab=repositories&q=&type=&language=dart)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508&style=for-the-badge)](https://github.com/vladimirmyshkovski?tab=repositories&q=&type=&language=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript&style=for-the-badge)
 ![Solidity](https://img.shields.io/badge/-Solidity-002fa7?&logo=Solidity&style=for-the-badge)
@@ -25,7 +26,7 @@
 ![Django](https://img.shields.io/badge/-Django-0C4B33?&logo=Django&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-Docker-fff?&logo=Docker&style=for-the-badge)
 ![NestJS](https://img.shields.io/badge/-NestJS-404040?&logo=NestJS&style=for-the-badge&logoColor=ed2945)
-
+![Flutter](https://img.shields.io/badge/-Flutter-fff?&logo=flutter&style=for-the-badge&logoColor=40C4FF)
 
 ![Vladimir Myshkovski's github stats](https://github-readme-stats.vercel.app/api?username=vladimirmyshkovski&show_icons=true&theme=react&hide_border=true&show_icons=true&count_private=true&line_height=27)
 [![Vladimir Myshkovski's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@vladimirmyshkovski&layout=compact&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)

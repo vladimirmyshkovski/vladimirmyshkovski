@@ -10,6 +10,7 @@
 ![Nim](https://img.shields.io/badge/-Nim-000?&logo=nim&style=for-the-badge)
 ![GoLang](https://img.shields.io/badge/-GoLang-fff?&logo=go&style=for-the-badge)
 ![VLang](https://img.shields.io/badge/-VLang-fff?&logo=V&style=for-the-badge)
+![Lua](https://img.shields.io/badge/-Lua-fff?&logo=Lua&style=for-the-badge&logoColor=000080)
 
 ### Technologies
 

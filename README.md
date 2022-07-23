@@ -33,6 +33,7 @@
 ![Consul](https://img.shields.io/badge/-Consul-fff?&logo=Consul&style=for-the-badge)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-fff?&logo=RabbitMQ&style=for-the-badge)
 ![Cassandra](https://img.shields.io/badge/-Cassandra-fff?&logo=Apache-Cassandra&style=for-the-badge)
+![Redis](https://img.shields.io/badge/-Redis-fff?&logo=Redis&style=for-the-badge)
 
 ![Vladimir Myshkovski's github stats](https://github-readme-stats.vercel.app/api?username=vladimirmyshkovski&show_icons=true&theme=react&hide_border=true&show_icons=true&count_private=true&line_height=27)
 [![Vladimir Myshkovski's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@vladimirmyshkovski&layout=compact&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)

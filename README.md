@@ -30,6 +30,7 @@
 ![NestJS](https://img.shields.io/badge/-NestJS-404040?&logo=NestJS&style=for-the-badge&logoColor=ed2945)
 ![Flutter](https://img.shields.io/badge/-Flutter-fff?&logo=flutter&style=for-the-badge&logoColor=40C4FF)
 ![Kafka](https://img.shields.io/badge/-Kafka-fff?&logo=Apache-Kafka&logoColor=000&style=for-the-badge)
+![Consul](https://img.shields.io/badge/-Consul-fff?&logo=Consul&style=for-the-badge)
 
 ![Vladimir Myshkovski's github stats](https://github-readme-stats.vercel.app/api?username=vladimirmyshkovski&show_icons=true&theme=react&hide_border=true&show_icons=true&count_private=true&line_height=27)
 [![Vladimir Myshkovski's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@vladimirmyshkovski&layout=compact&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)

@@ -1,5 +1,4 @@
 ### Languages
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -14,33 +13,46 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
+
 ### Web Frameworks [Backend]
 ![Django](https://img.shields.io/badge/-Django-0C4B33?&logo=Django&style=for-the-badge)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ### Web Frameworks / Libraries [Frontend]
-![Svelte](https://img.shields.io/badge/-Svelte-fff?&logo=svelte&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-fff?&logo=React&style=for-the-badge)
-![VueJS](https://img.shields.io/badge/-VueJS-34495E?&logo=vue.js&style=for-the-badge)
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Lit](https://img.shields.io/badge/-lit-00f?&logo=lit&style=for-the-badge)
-![NuxtJS](https://img.shields.io/badge/-NuxtJS-fff?&logo=Nuxt.js&style=for-the-badge)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
+![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb)
 
-### Technologies
+
+## Cross platform
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
+![Flutter](https://img.shields.io/badge/-Flutter-fff?&logo=flutter&style=for-the-badge&logoColor=40C4FF)
+![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
+
+
+### Other Technologies
+![IPFS](https://img.shields.io/badge/-IPFS-062b3f?&logo=IPFS&style=for-the-badge)
+![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=node.js&style=for-the-badge)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
+
+### CI/CD
+
+### Containerization & Orchestration
+![Docker](https://img.shields.io/badge/-Docker-fff?&logo=Docker&style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-fff?&logo=Kubernetes&style=for-the-badge)
+
 
 ### Blockchains
-
 ![Polkadot](https://img.shields.io/badge/-Polkadot-E6007A?&logo=Polkadot&style=for-the-badge)
 ![Ethereum](https://img.shields.io/badge/-Ethereum-716b94?&logo=Ethereum&style=for-the-badge)
 
-
-![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=node.js&style=for-the-badge)
-![IPFS](https://img.shields.io/badge/-IPFS-062b3f?&logo=IPFS&style=for-the-badge)
-
-![Docker](https://img.shields.io/badge/-Docker-fff?&logo=Docker&style=for-the-badge)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-fff?&logo=Kubernetes&style=for-the-badge)
-![NestJS](https://img.shields.io/badge/-NestJS-404040?&logo=NestJS&style=for-the-badge&logoColor=ed2945)
-![Flutter](https://img.shields.io/badge/-Flutter-fff?&logo=flutter&style=for-the-badge&logoColor=40C4FF)
-
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 ### Databases / Storages / Queues
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -50,6 +62,7 @@
 ![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white)
 ![CockroachLabs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white)
 ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+![RxDB](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 
 ![Kafka](https://img.shields.io/badge/-Kafka-fff?&logo=Apache-Kafka&logoColor=000&style=for-the-badge)
 ![Consul](https://img.shields.io/badge/-Consul-fff?&logo=Consul&style=for-the-badge)

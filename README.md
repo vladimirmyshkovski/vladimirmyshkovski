@@ -81,7 +81,7 @@
 ![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white)
 ![CockroachLabs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white)
 ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
-![RxDB](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
+![RxDB](https://camo.githubusercontent.com/b727dec7d35a9807048c2c849d8c8caef37a5f58fed84c4935fbd7d29f637844/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f727864622d2532333844314638392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d72786462266c6f676f436f6c6f723d7768697465)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 

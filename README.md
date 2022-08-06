@@ -2,7 +2,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![AssemblyScript](https://img.shields.io/badge/-AssemblyScript-007acc?&logo=AssemblyScript&style=for-the-badge)
@@ -52,10 +52,11 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
 
 ### Containerization & Orchestration
-![Docker](https://img.shields.io/badge/-Docker-fff?&logo=Docker&style=for-the-badge)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 
@@ -86,7 +87,8 @@
 ![Consul](https://img.shields.io/badge/-Consul-fff?&logo=Consul&style=for-the-badge)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
 ### ORMs / CMSs
 
@@ -99,7 +101,7 @@
 ![IPFS](https://img.shields.io/badge/-IPFS-062b3f?&logo=IPFS&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=node.js&style=for-the-badge)
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
-
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 ![Vladimir Myshkovski's github stats](https://github-readme-stats.vercel.app/api?username=vladimirmyshkovski&show_icons=true&theme=react&hide_border=true&show_icons=true&count_private=true&line_height=27)
 [![Vladimir Myshkovski's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@vladimirmyshkovski&layout=compact&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)

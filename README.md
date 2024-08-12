@@ -110,8 +110,6 @@
 ![Vladimir Myshkovski's github stats](https://github-readme-stats.vercel.app/api?username=vladimirmyshkovski&show_icons=true&theme=react&hide_border=true&show_icons=true&count_private=true&line_height=27)
 [![Vladimir Myshkovski's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@vladimirmyshkovski&layout=compact&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![wakatime](https://wakatime.com/badge/user/090f0b94-a6ff-49ae-9e6f-f06bb5eded75.svg)](https://wakatime.com/@090f0b94-a6ff-49ae-9e6f-f06bb5eded75)
-
 <h3 align="left">Connect with me:</h3>
 <p align='left'>
 <a href="https://keybase.io/myshkovski"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Keybase_logo_official.svg/1114px-Keybase_logo_official.svg.png"></a>&nbsp;&nbsp;

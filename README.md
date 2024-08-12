@@ -108,7 +108,6 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 ![Vladimir Myshkovski's github stats](https://github-readme-stats.vercel.app/api?username=vladimirmyshkovski&show_icons=true&theme=react&hide_border=true&show_icons=true&count_private=true&line_height=27)
-[![Vladimir Myshkovski's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@vladimirmyshkovski&layout=compact&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align='left'>
